@@ -1,11 +1,5 @@
 def find_element_index(array, value_to_find)
-  newarray = array
-  counter = 0
-  unless newarray[0] == value_to_find do
-    newarray.shift
-    counter += 1
-  end
-  p counter
+  
 end
 
 
