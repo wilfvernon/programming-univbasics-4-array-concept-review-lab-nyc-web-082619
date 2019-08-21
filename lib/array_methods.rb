@@ -5,9 +5,11 @@ end
 
 
 def find_max_value(array)
-  # Add your solution here
+  newarray = array.reverse
+  newarray[0]
 end
 
-def find_min_value(array)
-  # Add your solution here
+def find_min_value(array) 
+  newarray = array.sort
+  newarray[0]
 end
